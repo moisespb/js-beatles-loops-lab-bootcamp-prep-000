@@ -1,5 +1,6 @@
 // add solution here
-function 
-var musician = []
-  
+function theBeatlesPlay(musician, instruments){
+var array = []
+
+}
   
