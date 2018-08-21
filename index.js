@@ -6,3 +6,4 @@ array['instruments'] = "guitar"
 return console.log($musician + " plays " + $instruments)
 }
   
+function johnLennonFacts
