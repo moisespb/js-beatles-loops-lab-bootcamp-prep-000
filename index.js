@@ -1,2 +1,3 @@
 // add solution here
-var musician = []
+var musician = ['John lennon':'guitar'
+            ]
