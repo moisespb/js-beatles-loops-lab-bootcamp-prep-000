@@ -15,3 +15,7 @@ const facts =
 console.log($facts + "!!!")
 }
 
+function iLoveTheBeatles(n){
+  array1 = []
+  n = i 
+}
