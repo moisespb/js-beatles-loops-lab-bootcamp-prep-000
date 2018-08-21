@@ -18,5 +18,7 @@ console.log($facts + "!!!")
 function iLoveTheBeatles(n){
   array1 = []
   n = i 
-  while(i <= 15 array1.push(i++))
+  while(i <= 15 array1.push(i++));
+  console.log()
+  
 }
